@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - Ajout d'une photo de profil et d'une légère description
 - Ajout d'une section 'about'
 - Ajout d'une section SKILLS
+- Ajout d'une section 'projets'
 
 ### 💼 Other
 
