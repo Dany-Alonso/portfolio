@@ -7,9 +7,12 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - Ajout d'une photo de profil et d'une légère description
+- Ajout d'une photo de profil et d'une légère description
+- Ajout d'une section 'about'
 
 ### 💼 Other
 
+- Ajout d'une image logo à la place de la photo
 - Ajout d'une image logo à la place de la photo
 
 ### 📚 Documentation
