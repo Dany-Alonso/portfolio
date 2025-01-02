@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - Ajout d'une section 'about'
 - Ajout d'une section SKILLS
 - Ajout d'une section 'projets'
+- Ajout d'un footer avec les sections contact, liens utiles, réseaux sociaux et copyrights
 
 ### 💼 Other
 
