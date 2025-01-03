@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 - Ajout d'une section 'projets'
 - Ajout d'un footer avec les sections contact, liens utiles, réseaux sociaux et copyrights
 - Ajout d'une navbar
+- Retrait de la section 'about'
 
 ### 💼 Other
 
