@@ -1,0 +1,13 @@
+nav {
+    background: rgba(153, 153, 153, 0.5);
+}
+
+.progress{
+    border-radius:0;
+    overflow:visible;
+}
+.progress-bar{
+    background:rgb(23,44,60); 
+-webkit-transition: width 1.5s ease-in-out;
+transition: width 1.5s ease-in-out;
+}
