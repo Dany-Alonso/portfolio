@@ -26,6 +26,7 @@ All notable changes to this project will be documented in this file.
 - Ajout d'un git ignore dans le dossier img
 - Ajout d'un fichier CHANGELOG.md
 - Update du fichier CHANGELOG.md
+- Ajout de texte dans le fichier 'README'
 
 ### 🎨 Styling
 
